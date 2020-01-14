@@ -1,0 +1,59 @@
+HTML Tag Dictionary
+
+<!DOCTYPE>: selects version of html to use
+	Attributes: html
+	Example: <!DOCTYPE html>
+
+<a>: Tag a hyperlink a specific set of words
+	Attributes: href=""(For the link to hyperlink the words to)
+	Example: <a href="https://www.vsb.bc.ca/schools/lord-byng/"> School</a>
+
+<b>: Defines a bold text
+	Attributes: None
+	Example: <b> BOLD TEXT </b>
+
+<body>: designates the body; contains the content of website
+	Attributes: NA
+	Example <body> </body>
+
+<h1>: Header tag, makes the text large and puts it on a seperate line
+      Can use <h1> - <h6> and larger the number small the heading font
+	Attributes: None
+	Example: <h1>Hi!</h1>
+
+<head>: The area where metadata is stored(project settings)
+	Attributes: NA
+	Example: <head> </head>
+
+<html>: Required to make the doc valid
+	Attributes: NA
+	Examples: <html> </html>
+
+<img>: To link to an image in the SAME folder as the html file (does NOT need close tag)
+	Attributes: src=""(the name of the image file in folder)
+	Example: <img src="Image.png">
+
+<li>: To define a list item
+	Attributes: None
+	Example: <li>List Item One</li>
+
+<ol>: To define an ordered list where the list items are numbered from 1
+	Attributes: None
+	Example: <ol>
+		      <li> List Item </li>
+	         </ol>
+
+<p>: Defines a paragraph of text and puts the text on a sperate line
+	Attributes: None
+	Example: <p> I like apples and this is a good paragraph.</p>
+
+<title>: Sets offficial title for website
+	Attributes: NA
+	Example: <title> TITLE </title>
+
+<ul>: Defines an unordered list in which list items aren't numbered and
+      just have bullet points in front
+	Attributes: None
+	Example: <ul>
+		      <li> List Item </li>
+</ul>
